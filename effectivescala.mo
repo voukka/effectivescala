@@ -378,7 +378,7 @@ operations. Many collection manipulations and transformations can be
 expressed succinctly and readably, but careless application of these
 features can often lead to the opposite result. Every Scala programmer
 should read the [collections design
-document](http://www.scala-lang.org/docu/files/collections-api/collections.html);
+document](http://docs.scala-lang.org/overviews/collections/introduction);
 it provides great insight and motivation for Scala collections
 library.
 
