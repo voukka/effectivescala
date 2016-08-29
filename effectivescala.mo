@@ -52,7 +52,7 @@ is familiar with the language. Some resources for learning Scala are:
 
 This is a living document that will change to reflect our current
 "best practices," but its core ideas are unlikely to change: Always
-favor readability; write generic code but not at the expensive of
+favor readability; write generic code but not at the expense of
 clarity; take advantage of simple language features that afford great
 power but avoid the esoteric ones (especially in the type system).
 Above all, be always aware of the trade offs you make. A sophisticated
@@ -378,7 +378,7 @@ operations. Many collection manipulations and transformations can be
 expressed succinctly and readably, but careless application of these
 features can often lead to the opposite result. Every Scala programmer
 should read the [collections design
-document](http://www.scala-lang.org/docu/files/collections-api/collections.html);
+document](http://docs.scala-lang.org/overviews/collections/introduction);
 it provides great insight and motivation for Scala collections
 library.
 
